@@ -4,8 +4,20 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        fraunces: "'Fraunces 144pt S000', sans-serif",
-        manrope: "'Manrope', sans-serif",
+        serif: "'Fraunces 144pt S000', sans-serif",
+        sans: "'Manrope', sans-serif",
+      },
+      backgroundColor: {
+        main: '#24053e',
+        accent: '#44ffa1',
+      },
+      borderColor: {
+        main: '#24053e',
+        accent: '#44ffa1',
+      },
+      textColor: {
+        main: '#24053e',
+        accent: '#44ffa1',
       },
     },
   },
