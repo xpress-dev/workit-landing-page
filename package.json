@@ -1,5 +1,4 @@
 {
-  "homepage": "http://xpress-dev.github.io/workit-landing-page",
   "name": "workit-landing-page",
   "private": true,
   "version": "0.0.0",
@@ -7,8 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+
     "preview": "vite preview"
   },
   "dependencies": {
