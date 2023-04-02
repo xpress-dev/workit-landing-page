@@ -8,4 +8,4 @@
 
 4. <CallToAction /> Component: Again highlights the importance of responsive design.
 
-5. <Footer /> Component:
+5. <Footer /> Component: Socials with target = '_blank'
